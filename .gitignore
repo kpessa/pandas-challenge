@@ -1,5 +1,7 @@
 # ignore checkpoints
 .ipynb_checkpoints/
+HeroesOfPymoli/.ipynb_checkpoints/
+PyCitySchools/.ipynb_checkpoints/
 
 *checkpoint.ipynb 
 Instructions/
