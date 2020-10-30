@@ -1,7 +1,7 @@
 # pandas-challenge
 
-Homework solutions are in respective folders: 
+Solutions (python notebooks) are in respective folders: 
 - HeroesOfPymoli
 - PyCitySchools
 
-Even though the homework said to choose 1 option, I tried to solve both challenges.
+I tried to solve both challenges.
